@@ -1,0 +1,14 @@
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\AGA GAME.exe
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\AGA GAME.deps.json
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\AGA GAME.runtimeconfig.json
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\AGA GAME.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\AGA GAME.pdb
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.AssemblyInfoInputs.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.AssemblyInfo.cs
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.csproj.CoreCompileInputs.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\refint\AGA GAME.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.pdb
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\AGA GAME.genruntimeconfig.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\ref\AGA GAME.dll

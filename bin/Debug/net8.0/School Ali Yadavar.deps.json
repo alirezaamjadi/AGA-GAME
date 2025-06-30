@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "School Ali Yadavar/1.0.0": {
+        "runtime": {
+          "School Ali Yadavar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "School Ali Yadavar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

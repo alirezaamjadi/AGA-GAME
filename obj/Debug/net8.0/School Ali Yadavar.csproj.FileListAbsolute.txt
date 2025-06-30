@@ -1,0 +1,14 @@
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\School Ali Yadavar.exe
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\School Ali Yadavar.deps.json
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\School Ali Yadavar.runtimeconfig.json
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\School Ali Yadavar.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\bin\Debug\net8.0\School Ali Yadavar.pdb
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.AssemblyInfoInputs.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.AssemblyInfo.cs
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.csproj.CoreCompileInputs.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\refint\School Ali Yadavar.dll
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.pdb
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\School Ali Yadavar.genruntimeconfig.cache
+C:\Users\Haj alireza\source\repos\School Ali Yadavar\School Ali Yadavar\obj\Debug\net8.0\ref\School Ali Yadavar.dll
