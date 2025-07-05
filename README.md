@@ -1,6 +1,4 @@
 
-![ChatGPT Image Jun 30, 2025, 01_48_35 PM](https://github.com/user-attachments/assets/
-
 🎮 بازی AGA - Adad Gomshede Amjadi 🎉🔥
 
 
